@@ -1,0 +1,186 @@
+running: fib
+Starting AST interpreter
+AST interpreter took 9914 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9868 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9845 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9889 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9839 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9846 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9856 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9867 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9857 ms
+running: fib
+Starting AST interpreter
+AST interpreter took 9846 ms
+###########################################
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 24096 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 24336 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 23843 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 24047 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 24001 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 24011 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 23857 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 24206 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 23904 ms
+running: fib_maxint
+Starting AST interpreter
+AST interpreter took 23972 ms
+###########################################
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54359 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54286 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54822 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54348 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54976 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54303 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54558 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54800 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54396 ms
+running: prime_tester
+Starting AST interpreter
+AST interpreter took 54482 ms
+###########################################
+running: generated
+Starting AST interpreter
+AST interpreter took 12975 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 12912 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 12957 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 12978 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 12876 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 13011 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 12905 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 12839 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 13004 ms
+running: generated
+Starting AST interpreter
+AST interpreter took 13133 ms
+###########################################
+running: generated2
+Starting AST interpreter
+AST interpreter took 18844 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 18930 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 19105 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 18922 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 18993 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 19121 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 19093 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 19009 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 19035 ms
+running: generated2
+Starting AST interpreter
+AST interpreter took 19074 ms
+###########################################
+running: generated3
+Starting AST interpreter
+AST interpreter took 12414 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12207 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12182 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12366 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12403 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12319 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12560 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12409 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12458 ms
+running: generated3
+Starting AST interpreter
+AST interpreter took 12379 ms
+###########################################

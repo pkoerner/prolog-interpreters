@@ -1,0 +1,126 @@
+running: fib
+fact interpreter took 9974 ms
+running: fib
+fact interpreter took 9969 ms
+running: fib
+fact interpreter took 9997 ms
+running: fib
+fact interpreter took 9990 ms
+running: fib
+fact interpreter took 10029 ms
+running: fib
+fact interpreter took 10065 ms
+running: fib
+fact interpreter took 9974 ms
+running: fib
+fact interpreter took 10028 ms
+running: fib
+fact interpreter took 9957 ms
+running: fib
+fact interpreter took 10010 ms
+############################################
+running: fib_maxint
+fact interpreter took 30302 ms
+running: fib_maxint
+fact interpreter took 29907 ms
+running: fib_maxint
+fact interpreter took 30318 ms
+running: fib_maxint
+fact interpreter took 29923 ms
+running: fib_maxint
+fact interpreter took 30350 ms
+running: fib_maxint
+fact interpreter took 30123 ms
+running: fib_maxint
+fact interpreter took 29640 ms
+running: fib_maxint
+fact interpreter took 30205 ms
+running: fib_maxint
+fact interpreter took 30095 ms
+running: fib_maxint
+fact interpreter took 30434 ms
+############################################
+running: prime_tester
+fact interpreter took 72551 ms
+running: prime_tester
+fact interpreter took 71626 ms
+running: prime_tester
+fact interpreter took 87153 ms
+running: prime_tester
+fact interpreter took 72325 ms
+running: prime_tester
+fact interpreter took 72625 ms
+running: prime_tester
+fact interpreter took 71349 ms
+running: prime_tester
+fact interpreter took 71093 ms
+running: prime_tester
+fact interpreter took 73004 ms
+running: prime_tester
+fact interpreter took 72172 ms
+running: prime_tester
+fact interpreter took 72360 ms
+############################################
+running: generated
+fact interpreter took 20759 ms
+running: generated
+fact interpreter took 20566 ms
+running: generated
+fact interpreter took 21034 ms
+running: generated
+fact interpreter took 20607 ms
+running: generated
+fact interpreter took 20777 ms
+running: generated
+fact interpreter took 20711 ms
+running: generated
+fact interpreter took 20605 ms
+running: generated
+fact interpreter took 21047 ms
+running: generated
+fact interpreter took 20759 ms
+running: generated
+fact interpreter took 20694 ms
+############################################
+running: generated2
+fact interpreter took 31399 ms
+running: generated2
+fact interpreter took 30789 ms
+running: generated2
+fact interpreter took 30412 ms
+running: generated2
+fact interpreter took 31022 ms
+running: generated2
+fact interpreter took 30827 ms
+running: generated2
+fact interpreter took 30488 ms
+running: generated2
+fact interpreter took 30893 ms
+running: generated2
+fact interpreter took 30663 ms
+running: generated2
+fact interpreter took 30684 ms
+running: generated2
+fact interpreter took 30650 ms
+############################################
+running: generated3
+fact interpreter took 19724 ms
+running: generated3
+fact interpreter took 19921 ms
+running: generated3
+fact interpreter took 20066 ms
+running: generated3
+fact interpreter took 19772 ms
+running: generated3
+fact interpreter took 20608 ms
+running: generated3
+fact interpreter took 20630 ms
+running: generated3
+fact interpreter took 19813 ms
+running: generated3
+fact interpreter took 20136 ms
+running: generated3
+fact interpreter took 20099 ms
+running: generated3
+fact interpreter took 19843 ms
+############################################

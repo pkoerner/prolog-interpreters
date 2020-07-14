@@ -1,0 +1,126 @@
+'running: 'fib
+fact interpreter took 6612 ms
+'running: 'fib
+fact interpreter took 6452 ms
+'running: 'fib
+fact interpreter took 6511 ms
+'running: 'fib
+fact interpreter took 6480 ms
+'running: 'fib
+fact interpreter took 6465 ms
+'running: 'fib
+fact interpreter took 6457 ms
+'running: 'fib
+fact interpreter took 6515 ms
+'running: 'fib
+fact interpreter took 6468 ms
+'running: 'fib
+fact interpreter took 6483 ms
+'running: 'fib
+fact interpreter took 6473 ms
+############################################
+'running: 'fib_maxint
+fact interpreter took 130569 ms
+'running: 'fib_maxint
+fact interpreter took 129996 ms
+'running: 'fib_maxint
+fact interpreter took 136093 ms
+'running: 'fib_maxint
+fact interpreter took 131549 ms
+'running: 'fib_maxint
+fact interpreter took 130123 ms
+'running: 'fib_maxint
+fact interpreter took 132640 ms
+'running: 'fib_maxint
+fact interpreter took 130197 ms
+'running: 'fib_maxint
+fact interpreter took 129982 ms
+'running: 'fib_maxint
+fact interpreter took 131789 ms
+'running: 'fib_maxint
+fact interpreter took 130955 ms
+############################################
+'running: 'prime_tester
+fact interpreter took 332910 ms
+'running: 'prime_tester
+fact interpreter took 328954 ms
+'running: 'prime_tester
+fact interpreter took 330035 ms
+'running: 'prime_tester
+fact interpreter took 331523 ms
+'running: 'prime_tester
+fact interpreter took 331247 ms
+'running: 'prime_tester
+fact interpreter took 329199 ms
+'running: 'prime_tester
+fact interpreter took 331454 ms
+'running: 'prime_tester
+fact interpreter took 330474 ms
+'running: 'prime_tester
+fact interpreter took 330726 ms
+'running: 'prime_tester
+fact interpreter took 332424 ms
+############################################
+'running: 'generated
+fact interpreter took 73606 ms
+'running: 'generated
+fact interpreter took 73664 ms
+'running: 'generated
+fact interpreter took 74224 ms
+'running: 'generated
+fact interpreter took 74124 ms
+'running: 'generated
+fact interpreter took 73989 ms
+'running: 'generated
+fact interpreter took 74057 ms
+'running: 'generated
+fact interpreter took 73588 ms
+'running: 'generated
+fact interpreter took 73728 ms
+'running: 'generated
+fact interpreter took 73913 ms
+'running: 'generated
+fact interpreter took 74004 ms
+############################################
+'running: 'generated2
+fact interpreter took 108612 ms
+'running: 'generated2
+fact interpreter took 111566 ms
+'running: 'generated2
+fact interpreter took 108491 ms
+'running: 'generated2
+fact interpreter took 108934 ms
+'running: 'generated2
+fact interpreter took 108896 ms
+'running: 'generated2
+fact interpreter took 107890 ms
+'running: 'generated2
+fact interpreter took 107949 ms
+'running: 'generated2
+fact interpreter took 110809 ms
+'running: 'generated2
+fact interpreter took 108424 ms
+'running: 'generated2
+fact interpreter took 109323 ms
+############################################
+'running: 'generated3
+fact interpreter took 70852 ms
+'running: 'generated3
+fact interpreter took 70125 ms
+'running: 'generated3
+fact interpreter took 70630 ms
+'running: 'generated3
+fact interpreter took 70746 ms
+'running: 'generated3
+fact interpreter took 70506 ms
+'running: 'generated3
+fact interpreter took 70536 ms
+'running: 'generated3
+fact interpreter took 70235 ms
+'running: 'generated3
+fact interpreter took 70329 ms
+'running: 'generated3
+fact interpreter took 70618 ms
+'running: 'generated3
+fact interpreter took 70347 ms
+############################################

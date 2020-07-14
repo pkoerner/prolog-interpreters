@@ -1,0 +1,126 @@
+running: fib
+rational tree interpreter with bytecodes took 9900 ms
+running: fib
+rational tree interpreter with bytecodes took 9778 ms
+running: fib
+rational tree interpreter with bytecodes took 9795 ms
+running: fib
+rational tree interpreter with bytecodes took 9837 ms
+running: fib
+rational tree interpreter with bytecodes took 9815 ms
+running: fib
+rational tree interpreter with bytecodes took 9823 ms
+running: fib
+rational tree interpreter with bytecodes took 9818 ms
+running: fib
+rational tree interpreter with bytecodes took 9852 ms
+running: fib
+rational tree interpreter with bytecodes took 9830 ms
+running: fib
+rational tree interpreter with bytecodes took 9818 ms
+###########################################
+running: fib_maxint
+rational tree interpreter with bytecodes took 28856 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28701 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28629 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28666 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28513 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28709 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28491 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28596 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28436 ms
+running: fib_maxint
+rational tree interpreter with bytecodes took 28715 ms
+###########################################
+running: prime_tester
+rational tree interpreter with bytecodes took 70536 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70033 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70216 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70103 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70424 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70470 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70834 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 70515 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 71614 ms
+running: prime_tester
+rational tree interpreter with bytecodes took 71814 ms
+###########################################
+running: generated
+rational tree interpreter with bytecodes took 16954 ms
+running: generated
+rational tree interpreter with bytecodes took 16846 ms
+running: generated
+rational tree interpreter with bytecodes took 16688 ms
+running: generated
+rational tree interpreter with bytecodes took 17010 ms
+running: generated
+rational tree interpreter with bytecodes took 16805 ms
+running: generated
+rational tree interpreter with bytecodes took 16901 ms
+running: generated
+rational tree interpreter with bytecodes took 16877 ms
+running: generated
+rational tree interpreter with bytecodes took 17017 ms
+running: generated
+rational tree interpreter with bytecodes took 16908 ms
+running: generated
+rational tree interpreter with bytecodes took 16970 ms
+###########################################
+running: generated2
+rational tree interpreter with bytecodes took 24548 ms
+running: generated2
+rational tree interpreter with bytecodes took 24917 ms
+running: generated2
+rational tree interpreter with bytecodes took 24653 ms
+running: generated2
+rational tree interpreter with bytecodes took 25034 ms
+running: generated2
+rational tree interpreter with bytecodes took 24857 ms
+running: generated2
+rational tree interpreter with bytecodes took 29583 ms
+running: generated2
+rational tree interpreter with bytecodes took 25132 ms
+running: generated2
+rational tree interpreter with bytecodes took 24691 ms
+running: generated2
+rational tree interpreter with bytecodes took 25004 ms
+running: generated2
+rational tree interpreter with bytecodes took 24792 ms
+###########################################
+running: generated3
+rational tree interpreter with bytecodes took 16055 ms
+running: generated3
+rational tree interpreter with bytecodes took 16168 ms
+running: generated3
+rational tree interpreter with bytecodes took 16143 ms
+running: generated3
+rational tree interpreter with bytecodes took 16014 ms
+running: generated3
+rational tree interpreter with bytecodes took 16069 ms
+running: generated3
+rational tree interpreter with bytecodes took 16132 ms
+running: generated3
+rational tree interpreter with bytecodes took 16110 ms
+running: generated3
+rational tree interpreter with bytecodes took 16170 ms
+running: generated3
+rational tree interpreter with bytecodes took 16137 ms
+running: generated3
+rational tree interpreter with bytecodes took 16044 ms
+###########################################

@@ -1,0 +1,106 @@
+\documentclass{article}
+\usepackage{pbox}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+
+\section{Readable Bytecode Reference}
+
+%\begin{tabular}{p{2cm}|p{10cm}}
+%Bytecode & Semantics \\ \hline
+%push(value) & Pushes value in the bytecode on the stack. \\ \hline
+%load(id) & Looks up id and pushes its value on the stack. \\ \hline
+%var(x) & Pushes a reference to the variable x on the stack. \\ \hline
+%assign & Pops a reference to a variable and a value from the stack \newline Updates variable in the environment to the value. \\ \hline
+%not & Pops a boolean value from the stack. \newline Pushes the negation on the stack. \\ \hline
+% ... & ... \\ \hline
+%if & Pops an else-branch, a then-branch and a boolean value from the stack. If the boolean is true, executes then-branch, if the boolean is false, executes else-branch. \\ \hline
+%add & Pops two operands from the Stack and adds them. \newline Pushes the result on the stack. \newline add is exemplary for any binary arithmetic or logic operator. \\ \hline
+
+%\end{tabular}
+%\\ 
+%\vspace{2in}
+%\\
+
+\begin{tabularx}{\textwidth}{l|X|l|X}
+Bytecode & Pops & Pushes & Special Semantics \\ \hline
+push(value) & - & value & - \\ \hline
+load(id) & - & val(id) & looks up id in environment \\ \hline
+variable(var) & - & reference to var & - \\ \hline
+assign & reference to var \newline value & - & updates environment mapping \\ \hline
+not & boolean & $\neg$ boolean & - \\ \hline
+if & else\newline then\newline boolean & - & executes then-branch if boolean $=$ true,\newline otherwise executes else-branch \\ \hline
+while & block, cond & - & block and cond both are bytecodes. \newline cond is expected to return a stack with either a single true or false. \newline cond is executed. if it returns true, block is executed and the while bytecode will be executed again without manipulating the stack. \newline if cond returns false, block and cond are popped from the stack. \\ \hline
+add, eq, le, ... & two operands & result  & - \\
+\end{tabularx}
+\\
+\\
+
+\section{Actual Bytecode Reference}
+\subsection{Logical Operators}
+\subsubsection{Comparison}
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+255 & gt \\ \hline
+254 & ge \\ \hline
+253 & lt \\ \hline
+252 & le \\ \hline
+251 & eq \\ \hline
+\end{tabular}
+
+\subsubsection{Connectives}
+
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+240 & not\\ \hline
+\end{tabular}
+
+
+\subsection{Arithmetic Operators}
+
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+200 & add \\ \hline
+199 & sub \\ \hline
+198 & mul \\ \hline
+197 & mod \\ \hline
+\end{tabular}
+
+\subsection{Control Flow}
+
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+1 & if \\ \hline
+2 & while \\ \hline
+\end{tabular}
+
+\subsubsection{Program Counter Manipulation}
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+10 & jump \\ \hline
+11 & jump-if-false \\ \hline
+12 & jump-if-true \\ \hline
+\end{tabular}
+
+\subsection{Stack Manipulation}
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+20 & push1 \\ \hline
+21 & push4 \\ \hline
+22 & pushN \\ \hline
+23 & push \textit{(pushes any value on the stack, special bytecode for interpreters in Prolog)} \\ \hline
+\end{tabular}
+
+\subsection{Environment Manipulation}
+\begin{tabular}{l|l}
+\# & Name \\ \hline
+40 & load \\ \hline
+45 & assign \\ \hline
+
+\end{tabular}
+
+
+
+\end{document}

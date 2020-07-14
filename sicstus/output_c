@@ -1,0 +1,306 @@
+running: fib
+C interpreter took 10223 ms
+C here
+done
+Time elapsed: 10.221390
+running: fib
+C interpreter took 10240 ms
+C here
+done
+Time elapsed: 10.237854
+running: fib
+C interpreter took 10142 ms
+C here
+done
+Time elapsed: 10.140830
+running: fib
+C interpreter took 10126 ms
+C here
+done
+Time elapsed: 10.125621
+running: fib
+C interpreter took 10144 ms
+C here
+done
+Time elapsed: 10.142949
+running: fib
+C interpreter took 10178 ms
+C here
+done
+Time elapsed: 10.176909
+running: fib
+C interpreter took 10114 ms
+C here
+done
+Time elapsed: 10.112434
+running: fib
+C interpreter took 10189 ms
+C here
+done
+Time elapsed: 10.187196
+running: fib
+C interpreter took 10097 ms
+C here
+done
+Time elapsed: 10.095776
+running: fib
+C interpreter took 10163 ms
+C here
+done
+Time elapsed: 10.162049
+#####################################
+running: fib_maxint
+C interpreter took 42224 ms
+C here
+done
+Time elapsed: 42.222222
+running: fib_maxint
+C interpreter took 42004 ms
+C here
+done
+Time elapsed: 42.003133
+running: fib_maxint
+C interpreter took 42255 ms
+C here
+done
+Time elapsed: 42.253619
+running: fib_maxint
+C interpreter took 42394 ms
+C here
+done
+Time elapsed: 42.392858
+running: fib_maxint
+C interpreter took 42122 ms
+C here
+done
+Time elapsed: 42.120982
+running: fib_maxint
+C interpreter took 41721 ms
+C here
+done
+Time elapsed: 41.720397
+running: fib_maxint
+C interpreter took 43327 ms
+C here
+done
+Time elapsed: 43.326552
+running: fib_maxint
+C interpreter took 41766 ms
+C here
+done
+Time elapsed: 41.764920
+running: fib_maxint
+C interpreter took 42013 ms
+C here
+done
+Time elapsed: 42.011899
+running: fib_maxint
+C interpreter took 42537 ms
+C here
+done
+Time elapsed: 42.536263
+#####################################
+running: prime_tester
+C interpreter took 118661 ms
+C here
+done
+Time elapsed: 118.660301
+running: prime_tester
+C interpreter took 119696 ms
+C here
+done
+Time elapsed: 119.694361
+running: prime_tester
+C interpreter took 126220 ms
+C here
+done
+Time elapsed: 126.219894
+running: prime_tester
+C interpreter took 120170 ms
+C here
+done
+Time elapsed: 120.168500
+running: prime_tester
+C interpreter took 122616 ms
+C here
+done
+Time elapsed: 122.614332
+running: prime_tester
+C interpreter took 119545 ms
+C here
+done
+Time elapsed: 119.543553
+running: prime_tester
+C interpreter took 117976 ms
+C here
+done
+Time elapsed: 117.974700
+running: prime_tester
+C interpreter took 118636 ms
+C here
+done
+Time elapsed: 118.635045
+running: prime_tester
+C interpreter took 118439 ms
+C here
+done
+Time elapsed: 118.437539
+running: prime_tester
+C interpreter took 117652 ms
+C here
+done
+Time elapsed: 117.650692
+#####################################
+running: generated
+C interpreter took 24680 ms
+C here
+done
+Time elapsed: 24.678586
+running: generated
+C interpreter took 24287 ms
+C here
+done
+Time elapsed: 24.286207
+running: generated
+C interpreter took 24379 ms
+C here
+done
+Time elapsed: 24.377840
+running: generated
+C interpreter took 24506 ms
+C here
+done
+Time elapsed: 24.504901
+running: generated
+C interpreter took 24097 ms
+C here
+done
+Time elapsed: 24.095590
+running: generated
+C interpreter took 24488 ms
+C here
+done
+Time elapsed: 24.487479
+running: generated
+C interpreter took 24330 ms
+C here
+done
+Time elapsed: 24.329626
+running: generated
+C interpreter took 25564 ms
+C here
+done
+Time elapsed: 25.563609
+running: generated
+C interpreter took 24115 ms
+C here
+done
+Time elapsed: 24.114357
+running: generated
+C interpreter took 24446 ms
+C here
+done
+Time elapsed: 24.444988
+########################################################
+running: generated2
+C interpreter took 35510 ms
+C here
+done
+Time elapsed: 35.509961
+running: generated2
+C interpreter took 35625 ms
+C here
+done
+Time elapsed: 35.623367
+running: generated2
+C interpreter took 35395 ms
+C here
+done
+Time elapsed: 35.393267
+running: generated2
+C interpreter took 35662 ms
+C here
+done
+Time elapsed: 35.661508
+running: generated2
+C interpreter took 36191 ms
+C here
+done
+Time elapsed: 36.189310
+running: generated2
+C interpreter took 36281 ms
+C here
+done
+Time elapsed: 36.280169
+running: generated2
+C interpreter took 35537 ms
+C here
+done
+Time elapsed: 35.536379
+running: generated2
+C interpreter took 36154 ms
+C here
+done
+Time elapsed: 36.152386
+running: generated2
+C interpreter took 36891 ms
+C here
+done
+Time elapsed: 36.890074
+running: generated2
+C interpreter took 35697 ms
+C here
+done
+Time elapsed: 35.696572
+########################################################
+running: generated3
+C interpreter took 23087 ms
+C here
+done
+Time elapsed: 23.085869
+running: generated3
+C interpreter took 23381 ms
+C here
+done
+Time elapsed: 23.380190
+running: generated3
+C interpreter took 23396 ms
+C here
+done
+Time elapsed: 23.395420
+running: generated3
+C interpreter took 23504 ms
+C here
+done
+Time elapsed: 23.502329
+running: generated3
+C interpreter took 23378 ms
+C here
+done
+Time elapsed: 23.376975
+running: generated3
+C interpreter took 23453 ms
+C here
+done
+Time elapsed: 23.452399
+running: generated3
+C interpreter took 24253 ms
+C here
+done
+Time elapsed: 24.251669
+running: generated3
+C interpreter took 23871 ms
+C here
+done
+Time elapsed: 23.870771
+running: generated3
+C interpreter took 23770 ms
+C here
+done
+Time elapsed: 23.769555
+running: generated3
+C interpreter took 23053 ms
+C here
+done
+Time elapsed: 23.051810
+########################################################

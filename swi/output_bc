@@ -1,0 +1,126 @@
+'running: 'fib
+BC interpreter took 6372 ms
+'running: 'fib
+BC interpreter took 6413 ms
+'running: 'fib
+BC interpreter took 6378 ms
+'running: 'fib
+BC interpreter took 6319 ms
+'running: 'fib
+BC interpreter took 6421 ms
+'running: 'fib
+BC interpreter took 6188 ms
+'running: 'fib
+BC interpreter took 6418 ms
+'running: 'fib
+BC interpreter took 6286 ms
+'running: 'fib
+BC interpreter took 6362 ms
+'running: 'fib
+BC interpreter took 6431 ms
+########################################################
+'running: 'fib_maxint
+BC interpreter took 122421 ms
+'running: 'fib_maxint
+BC interpreter took 122139 ms
+'running: 'fib_maxint
+BC interpreter took 123626 ms
+'running: 'fib_maxint
+BC interpreter took 122209 ms
+'running: 'fib_maxint
+BC interpreter took 122086 ms
+'running: 'fib_maxint
+BC interpreter took 123123 ms
+'running: 'fib_maxint
+BC interpreter took 123353 ms
+'running: 'fib_maxint
+BC interpreter took 123515 ms
+'running: 'fib_maxint
+BC interpreter took 122004 ms
+'running: 'fib_maxint
+BC interpreter took 124189 ms
+########################################################
+'running: 'prime_tester
+BC interpreter took 314849 ms
+'running: 'prime_tester
+BC interpreter took 317496 ms
+'running: 'prime_tester
+BC interpreter took 317091 ms
+'running: 'prime_tester
+BC interpreter took 315589 ms
+'running: 'prime_tester
+BC interpreter took 315617 ms
+'running: 'prime_tester
+BC interpreter took 317484 ms
+'running: 'prime_tester
+BC interpreter took 315737 ms
+'running: 'prime_tester
+BC interpreter took 316166 ms
+'running: 'prime_tester
+BC interpreter took 316900 ms
+'running: 'prime_tester
+BC interpreter took 317466 ms
+########################################################
+'running: 'generated
+BC interpreter took 68632 ms
+'running: 'generated
+BC interpreter took 69462 ms
+'running: 'generated
+BC interpreter took 69255 ms
+'running: 'generated
+BC interpreter took 69146 ms
+'running: 'generated
+BC interpreter took 69402 ms
+'running: 'generated
+BC interpreter took 69429 ms
+'running: 'generated
+BC interpreter took 69203 ms
+'running: 'generated
+BC interpreter took 69522 ms
+'running: 'generated
+BC interpreter took 69234 ms
+'running: 'generated
+BC interpreter took 69323 ms
+########################################################
+'running: 'generated2
+BC interpreter took 101889 ms
+'running: 'generated2
+BC interpreter took 103057 ms
+'running: 'generated2
+BC interpreter took 102020 ms
+'running: 'generated2
+BC interpreter took 101499 ms
+'running: 'generated2
+BC interpreter took 102640 ms
+'running: 'generated2
+BC interpreter took 100823 ms
+'running: 'generated2
+BC interpreter took 103319 ms
+'running: 'generated2
+BC interpreter took 102017 ms
+'running: 'generated2
+BC interpreter took 101789 ms
+'running: 'generated2
+BC interpreter took 102656 ms
+########################################################
+'running: 'generated3
+BC interpreter took 65866 ms
+'running: 'generated3
+BC interpreter took 65866 ms
+'running: 'generated3
+BC interpreter took 65881 ms
+'running: 'generated3
+BC interpreter took 65396 ms
+'running: 'generated3
+BC interpreter took 65809 ms
+'running: 'generated3
+BC interpreter took 66454 ms
+'running: 'generated3
+BC interpreter took 65873 ms
+'running: 'generated3
+BC interpreter took 66471 ms
+'running: 'generated3
+BC interpreter took 65722 ms
+'running: 'generated3
+BC interpreter took 66623 ms
+########################################################

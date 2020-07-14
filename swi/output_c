@@ -1,0 +1,306 @@
+'running: 'fib
+C interpreter took 2582 ms
+C here
+done
+Time elapsed: 2.581954
+'running: 'fib
+C interpreter took 2579 ms
+C here
+done
+Time elapsed: 2.578726
+'running: 'fib
+C interpreter took 2598 ms
+C here
+done
+Time elapsed: 2.597694
+'running: 'fib
+C interpreter took 2589 ms
+C here
+done
+Time elapsed: 2.589073
+'running: 'fib
+C interpreter took 2642 ms
+C here
+done
+Time elapsed: 2.642406
+'running: 'fib
+C interpreter took 2581 ms
+C here
+done
+Time elapsed: 2.580777
+'running: 'fib
+C interpreter took 2578 ms
+C here
+done
+Time elapsed: 2.577622
+'running: 'fib
+C interpreter took 2539 ms
+C here
+done
+Time elapsed: 2.539499
+'running: 'fib
+C interpreter took 2544 ms
+C here
+done
+Time elapsed: 2.544056
+'running: 'fib
+C interpreter took 2586 ms
+C here
+done
+Time elapsed: 2.586305
+#####################################
+'running: 'fib_maxint
+C interpreter took 22643 ms
+C here
+done
+Time elapsed: 22.643350
+'running: 'fib_maxint
+C interpreter took 22641 ms
+C here
+done
+Time elapsed: 22.641480
+'running: 'fib_maxint
+C interpreter took 22720 ms
+C here
+done
+Time elapsed: 22.720394
+'running: 'fib_maxint
+C interpreter took 23007 ms
+C here
+done
+Time elapsed: 23.006932
+'running: 'fib_maxint
+C interpreter took 22330 ms
+C here
+done
+Time elapsed: 22.329622
+'running: 'fib_maxint
+C interpreter took 22341 ms
+C here
+done
+Time elapsed: 22.341245
+'running: 'fib_maxint
+C interpreter took 22493 ms
+C here
+done
+Time elapsed: 22.493487
+'running: 'fib_maxint
+C interpreter took 22671 ms
+C here
+done
+Time elapsed: 22.671512
+'running: 'fib_maxint
+C interpreter took 22572 ms
+C here
+done
+Time elapsed: 22.572020
+'running: 'fib_maxint
+C interpreter took 23085 ms
+C here
+done
+Time elapsed: 23.084656
+#####################################
+'running: 'prime_tester
+C interpreter took 54386 ms
+C here
+done
+Time elapsed: 54.386109
+'running: 'prime_tester
+C interpreter took 54632 ms
+C here
+done
+Time elapsed: 54.632494
+'running: 'prime_tester
+C interpreter took 54363 ms
+C here
+done
+Time elapsed: 54.362878
+'running: 'prime_tester
+C interpreter took 54503 ms
+C here
+done
+Time elapsed: 54.503065
+'running: 'prime_tester
+C interpreter took 55174 ms
+C here
+done
+Time elapsed: 55.174352
+'running: 'prime_tester
+C interpreter took 55197 ms
+C here
+done
+Time elapsed: 55.197432
+'running: 'prime_tester
+C interpreter took 55467 ms
+C here
+done
+Time elapsed: 55.467285
+'running: 'prime_tester
+C interpreter took 54586 ms
+C here
+done
+Time elapsed: 54.586387
+'running: 'prime_tester
+C interpreter took 55676 ms
+C here
+done
+Time elapsed: 55.676385
+'running: 'prime_tester
+C interpreter took 54315 ms
+C here
+done
+Time elapsed: 54.314670
+#####################################
+'running: 'generated
+C interpreter took 10347 ms
+C here
+done
+Time elapsed: 10.346749
+'running: 'generated
+C interpreter took 10197 ms
+C here
+done
+Time elapsed: 10.196724
+'running: 'generated
+C interpreter took 10285 ms
+C here
+done
+Time elapsed: 10.285411
+'running: 'generated
+C interpreter took 10424 ms
+C here
+done
+Time elapsed: 10.423718
+'running: 'generated
+C interpreter took 10318 ms
+C here
+done
+Time elapsed: 10.318537
+'running: 'generated
+C interpreter took 10232 ms
+C here
+done
+Time elapsed: 10.231659
+'running: 'generated
+C interpreter took 10367 ms
+C here
+done
+Time elapsed: 10.367134
+'running: 'generated
+C interpreter took 10449 ms
+C here
+done
+Time elapsed: 10.448738
+'running: 'generated
+C interpreter took 10234 ms
+C here
+done
+Time elapsed: 10.233526
+'running: 'generated
+C interpreter took 10179 ms
+C here
+done
+Time elapsed: 10.179529
+#####################################
+'running: 'generated2
+C interpreter took 14946 ms
+C here
+done
+Time elapsed: 14.946016
+'running: 'generated2
+C interpreter took 15075 ms
+C here
+done
+Time elapsed: 15.074983
+'running: 'generated2
+C interpreter took 14919 ms
+C here
+done
+Time elapsed: 14.918562
+'running: 'generated2
+C interpreter took 14892 ms
+C here
+done
+Time elapsed: 14.892227
+'running: 'generated2
+C interpreter took 15042 ms
+C here
+done
+Time elapsed: 15.041701
+'running: 'generated2
+C interpreter took 15193 ms
+C here
+done
+Time elapsed: 15.193082
+'running: 'generated2
+C interpreter took 15199 ms
+C here
+done
+Time elapsed: 15.199515
+'running: 'generated2
+C interpreter took 15093 ms
+C here
+done
+Time elapsed: 15.092774
+'running: 'generated2
+C interpreter took 15109 ms
+C here
+done
+Time elapsed: 15.109496
+'running: 'generated2
+C interpreter took 15234 ms
+C here
+done
+Time elapsed: 15.233987
+#####################################
+'running: 'generated3
+C interpreter took 9851 ms
+C here
+done
+Time elapsed: 9.850795
+'running: 'generated3
+C interpreter took 9688 ms
+C here
+done
+Time elapsed: 9.687899
+'running: 'generated3
+C interpreter took 10048 ms
+C here
+done
+Time elapsed: 10.048543
+'running: 'generated3
+C interpreter took 9766 ms
+C here
+done
+Time elapsed: 9.765867
+'running: 'generated3
+C interpreter took 9716 ms
+C here
+done
+Time elapsed: 9.716320
+'running: 'generated3
+C interpreter took 9853 ms
+C here
+done
+Time elapsed: 9.852926
+'running: 'generated3
+C interpreter took 9779 ms
+C here
+done
+Time elapsed: 9.779160
+'running: 'generated3
+C interpreter took 9781 ms
+C here
+done
+Time elapsed: 9.780814
+'running: 'generated3
+C interpreter took 9625 ms
+C here
+done
+Time elapsed: 9.625377
+'running: 'generated3
+C interpreter took 9774 ms
+C here
+done
+Time elapsed: 9.773602
+#####################################

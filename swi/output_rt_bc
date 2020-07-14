@@ -1,0 +1,126 @@
+'running: 'fib
+rational tree interpreter with bytecodes took 5628 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5571 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5649 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5619 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5604 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5622 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5667 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5603 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5621 ms
+'running: 'fib
+rational tree interpreter with bytecodes took 5756 ms
+###########################################
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 103559 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 103549 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 104473 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 104331 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 104043 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 103832 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 104177 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 103920 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 104064 ms
+'running: 'fib_maxint
+rational tree interpreter with bytecodes took 103383 ms
+###########################################
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 260100 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 260013 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 260163 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 261797 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 260452 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 268841 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 258537 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 261668 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 259975 ms
+'running: 'prime_tester
+rational tree interpreter with bytecodes took 262457 ms
+###########################################
+'running: 'generated
+rational tree interpreter with bytecodes took 61278 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 61866 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 62093 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 63110 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 61755 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 61769 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 61624 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 62948 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 61609 ms
+'running: 'generated
+rational tree interpreter with bytecodes took 61783 ms
+###########################################
+'running: 'generated2
+rational tree interpreter with bytecodes took 91100 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 90410 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 90416 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 90468 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 89819 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 89663 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 89733 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 91261 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 91323 ms
+'running: 'generated2
+rational tree interpreter with bytecodes took 90245 ms
+###########################################
+'running: 'generated3
+rational tree interpreter with bytecodes took 60174 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 59836 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 61334 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 59871 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 59531 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 60135 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 60282 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 59990 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 59888 ms
+'running: 'generated3
+rational tree interpreter with bytecodes took 59700 ms
+###########################################

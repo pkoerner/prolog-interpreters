@@ -1,0 +1,126 @@
+running: fib
+BC interpreter took 10209 ms
+running: fib
+BC interpreter took 10306 ms
+running: fib
+BC interpreter took 10220 ms
+running: fib
+BC interpreter took 10128 ms
+running: fib
+BC interpreter took 10144 ms
+running: fib
+BC interpreter took 10121 ms
+running: fib
+BC interpreter took 10099 ms
+running: fib
+BC interpreter took 10139 ms
+running: fib
+BC interpreter took 10131 ms
+running: fib
+BC interpreter took 10120 ms
+########################################################
+running: fib_maxint
+BC interpreter took 31243 ms
+running: fib_maxint
+BC interpreter took 30901 ms
+running: fib_maxint
+BC interpreter took 31090 ms
+running: fib_maxint
+BC interpreter took 31157 ms
+running: fib_maxint
+BC interpreter took 31048 ms
+running: fib_maxint
+BC interpreter took 31166 ms
+running: fib_maxint
+BC interpreter took 30895 ms
+running: fib_maxint
+BC interpreter took 30841 ms
+running: fib_maxint
+BC interpreter took 30970 ms
+running: fib_maxint
+BC interpreter took 31028 ms
+########################################################
+running: prime_tester
+BC interpreter took 78305 ms
+running: prime_tester
+BC interpreter took 78097 ms
+running: prime_tester
+BC interpreter took 77613 ms
+running: prime_tester
+BC interpreter took 78271 ms
+running: prime_tester
+BC interpreter took 78133 ms
+running: prime_tester
+BC interpreter took 77740 ms
+running: prime_tester
+BC interpreter took 77899 ms
+running: prime_tester
+BC interpreter took 78361 ms
+running: prime_tester
+BC interpreter took 77554 ms
+running: prime_tester
+BC interpreter took 78284 ms
+########################################################
+running: generated
+BC interpreter took 19519 ms
+running: generated
+BC interpreter took 19682 ms
+running: generated
+BC interpreter took 19462 ms
+running: generated
+BC interpreter took 20646 ms
+running: generated
+BC interpreter took 19452 ms
+running: generated
+BC interpreter took 19664 ms
+running: generated
+BC interpreter took 19399 ms
+running: generated
+BC interpreter took 19729 ms
+running: generated
+BC interpreter took 19826 ms
+running: generated
+BC interpreter took 19708 ms
+########################################################
+running: generated2
+BC interpreter took 29210 ms
+running: generated2
+BC interpreter took 28883 ms
+running: generated2
+BC interpreter took 29430 ms
+running: generated2
+BC interpreter took 29272 ms
+running: generated2
+BC interpreter took 28795 ms
+running: generated2
+BC interpreter took 29473 ms
+running: generated2
+BC interpreter took 29125 ms
+running: generated2
+BC interpreter took 28943 ms
+running: generated2
+BC interpreter took 29168 ms
+running: generated2
+BC interpreter took 28831 ms
+########################################################
+running: generated3
+BC interpreter took 18812 ms
+running: generated3
+BC interpreter took 18875 ms
+running: generated3
+BC interpreter took 18905 ms
+running: generated3
+BC interpreter took 18918 ms
+running: generated3
+BC interpreter took 18989 ms
+running: generated3
+BC interpreter took 19144 ms
+running: generated3
+BC interpreter took 18859 ms
+running: generated3
+BC interpreter took 18844 ms
+running: generated3
+BC interpreter took 19030 ms
+running: generated3
+BC interpreter took 18924 ms
+########################################################

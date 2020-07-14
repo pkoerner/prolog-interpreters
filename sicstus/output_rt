@@ -1,0 +1,126 @@
+running: fib
+rational tree interpreter took 9919 ms
+running: fib
+rational tree interpreter took 10071 ms
+running: fib
+rational tree interpreter took 9719 ms
+running: fib
+rational tree interpreter took 9861 ms
+running: fib
+rational tree interpreter took 9838 ms
+running: fib
+rational tree interpreter took 9801 ms
+running: fib
+rational tree interpreter took 9790 ms
+running: fib
+rational tree interpreter took 9831 ms
+running: fib
+rational tree interpreter took 9771 ms
+running: fib
+rational tree interpreter took 9813 ms
+########################################################
+running: fib_maxint
+rational tree interpreter took 23949 ms
+running: fib_maxint
+rational tree interpreter took 24213 ms
+running: fib_maxint
+rational tree interpreter took 23981 ms
+running: fib_maxint
+rational tree interpreter took 24155 ms
+running: fib_maxint
+rational tree interpreter took 24064 ms
+running: fib_maxint
+rational tree interpreter took 24048 ms
+running: fib_maxint
+rational tree interpreter took 24051 ms
+running: fib_maxint
+rational tree interpreter took 23971 ms
+running: fib_maxint
+rational tree interpreter took 24093 ms
+running: fib_maxint
+rational tree interpreter took 23975 ms
+########################################################
+running: prime_tester
+rational tree interpreter took 54535 ms
+running: prime_tester
+rational tree interpreter took 54180 ms
+running: prime_tester
+rational tree interpreter took 53767 ms
+running: prime_tester
+rational tree interpreter took 54489 ms
+running: prime_tester
+rational tree interpreter took 54503 ms
+running: prime_tester
+rational tree interpreter took 54500 ms
+running: prime_tester
+rational tree interpreter took 54069 ms
+running: prime_tester
+rational tree interpreter took 54399 ms
+running: prime_tester
+rational tree interpreter took 54356 ms
+running: prime_tester
+rational tree interpreter took 53811 ms
+########################################################
+running: generated
+rational tree interpreter took 12885 ms
+running: generated
+rational tree interpreter took 12929 ms
+running: generated
+rational tree interpreter took 12868 ms
+running: generated
+rational tree interpreter took 12991 ms
+running: generated
+rational tree interpreter took 12863 ms
+running: generated
+rational tree interpreter took 12860 ms
+running: generated
+rational tree interpreter took 12810 ms
+running: generated
+rational tree interpreter took 12838 ms
+running: generated
+rational tree interpreter took 13025 ms
+running: generated
+rational tree interpreter took 12844 ms
+########################################################
+running: generated2
+rational tree interpreter took 19264 ms
+running: generated2
+rational tree interpreter took 19123 ms
+running: generated2
+rational tree interpreter took 19003 ms
+running: generated2
+rational tree interpreter took 19246 ms
+running: generated2
+rational tree interpreter took 19124 ms
+running: generated2
+rational tree interpreter took 18817 ms
+running: generated2
+rational tree interpreter took 19162 ms
+running: generated2
+rational tree interpreter took 19163 ms
+running: generated2
+rational tree interpreter took 19123 ms
+running: generated2
+rational tree interpreter took 18984 ms
+########################################################
+running: generated3
+rational tree interpreter took 12473 ms
+running: generated3
+rational tree interpreter took 12236 ms
+running: generated3
+rational tree interpreter took 12334 ms
+running: generated3
+rational tree interpreter took 12341 ms
+running: generated3
+rational tree interpreter took 12297 ms
+running: generated3
+rational tree interpreter took 12771 ms
+running: generated3
+rational tree interpreter took 12349 ms
+running: generated3
+rational tree interpreter took 12390 ms
+running: generated3
+rational tree interpreter took 12314 ms
+running: generated3
+rational tree interpreter took 12273 ms
+########################################################

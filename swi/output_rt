@@ -1,0 +1,126 @@
+'running: 'fib
+rational tree interpreter took 5386 ms
+'running: 'fib
+rational tree interpreter took 5322 ms
+'running: 'fib
+rational tree interpreter took 5372 ms
+'running: 'fib
+rational tree interpreter took 5447 ms
+'running: 'fib
+rational tree interpreter took 5483 ms
+'running: 'fib
+rational tree interpreter took 5408 ms
+'running: 'fib
+rational tree interpreter took 5383 ms
+'running: 'fib
+rational tree interpreter took 5396 ms
+'running: 'fib
+rational tree interpreter took 5334 ms
+'running: 'fib
+rational tree interpreter took 5398 ms
+#######################################
+'running: 'fib_maxint
+rational tree interpreter took 94666 ms
+'running: 'fib_maxint
+rational tree interpreter took 94856 ms
+'running: 'fib_maxint
+rational tree interpreter took 93900 ms
+'running: 'fib_maxint
+rational tree interpreter took 94230 ms
+'running: 'fib_maxint
+rational tree interpreter took 94686 ms
+'running: 'fib_maxint
+rational tree interpreter took 94407 ms
+'running: 'fib_maxint
+rational tree interpreter took 93379 ms
+'running: 'fib_maxint
+rational tree interpreter took 93713 ms
+'running: 'fib_maxint
+rational tree interpreter took 95369 ms
+'running: 'fib_maxint
+rational tree interpreter took 94375 ms
+#######################################
+'running: 'prime_tester
+rational tree interpreter took 230691 ms
+'running: 'prime_tester
+rational tree interpreter took 228752 ms
+'running: 'prime_tester
+rational tree interpreter took 228250 ms
+'running: 'prime_tester
+rational tree interpreter took 230136 ms
+'running: 'prime_tester
+rational tree interpreter took 230079 ms
+'running: 'prime_tester
+rational tree interpreter took 228997 ms
+'running: 'prime_tester
+rational tree interpreter took 231762 ms
+'running: 'prime_tester
+rational tree interpreter took 230600 ms
+'running: 'prime_tester
+rational tree interpreter took 228740 ms
+'running: 'prime_tester
+rational tree interpreter took 228531 ms
+#######################################
+'running: 'generated
+rational tree interpreter took 58203 ms
+'running: 'generated
+rational tree interpreter took 58378 ms
+'running: 'generated
+rational tree interpreter took 58248 ms
+'running: 'generated
+rational tree interpreter took 58155 ms
+'running: 'generated
+rational tree interpreter took 57844 ms
+'running: 'generated
+rational tree interpreter took 60407 ms
+'running: 'generated
+rational tree interpreter took 58079 ms
+'running: 'generated
+rational tree interpreter took 57910 ms
+'running: 'generated
+rational tree interpreter took 58110 ms
+'running: 'generated
+rational tree interpreter took 58194 ms
+#######################################
+'running: 'generated2
+rational tree interpreter took 81064 ms
+'running: 'generated2
+rational tree interpreter took 81154 ms
+'running: 'generated2
+rational tree interpreter took 80949 ms
+'running: 'generated2
+rational tree interpreter took 81089 ms
+'running: 'generated2
+rational tree interpreter took 81303 ms
+'running: 'generated2
+rational tree interpreter took 81199 ms
+'running: 'generated2
+rational tree interpreter took 81137 ms
+'running: 'generated2
+rational tree interpreter took 80621 ms
+'running: 'generated2
+rational tree interpreter took 80828 ms
+'running: 'generated2
+rational tree interpreter took 81109 ms
+#######################################
+'running: 'generated3
+rational tree interpreter took 52987 ms
+'running: 'generated3
+rational tree interpreter took 53176 ms
+'running: 'generated3
+rational tree interpreter took 52412 ms
+'running: 'generated3
+rational tree interpreter took 52222 ms
+'running: 'generated3
+rational tree interpreter took 53751 ms
+'running: 'generated3
+rational tree interpreter took 52351 ms
+'running: 'generated3
+rational tree interpreter took 52760 ms
+'running: 'generated3
+rational tree interpreter took 52848 ms
+'running: 'generated3
+rational tree interpreter took 53931 ms
+'running: 'generated3
+rational tree interpreter took 53212 ms
+#######################################
