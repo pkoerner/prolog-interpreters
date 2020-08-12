@@ -11,4 +11,4 @@ testall:
 test:
 	sicstus -l bc_interpreter.pl --goal "plunit:run_tests,halt."
 c_interpreter: interpreter.c stack.c stack.h objspace.c objspace.h
-	gcc -o c_interpreter interpreter.c stack.c objspace.c -Wall -g -O3
+	gcc -o c_interpreter interpreter.c stack.c objspace.c -Wall -g -O3 -DC_INTERPRETER

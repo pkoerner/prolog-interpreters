@@ -20,6 +20,7 @@ benchmark(generated2).
 benchmark(generated3).
 benchmark(prime_tester).
 benchmark(fib).
+benchmark(fib_maxint).
 
 run_bench :-
     findall(X, benchmark(X), L),
@@ -129,6 +130,20 @@ fib(AST, Env) :-
     avl_store(n, AVL2, int(400000), AVL3),
     Env = AVL3.
 
+fib_maxint(AST, Env) :-
+    Program = "i := 1;                 \
+               while i < n {           \
+                   b := (b + a) mod 1000000; \
+                   a := (b - a) mod 1000000; \
+                   i := i + 1;          \
+               }",
+    parse(Program, AST), !,
+    empty_avl(AVL0),
+    avl_store(a, AVL0, int(0), AVL1),
+    avl_store(b, AVL1, int(1), AVL2),
+    avl_store(n, AVL2, int(10000000), AVL3),
+    Env = AVL3.
+
 prime_tester(AST, Env) :-
     AST = [while(lt(id(start), id(v)),
                 [if(eq(mod(id(v), id(start)), int(0)),
@@ -157,6 +172,26 @@ generated(AST, Env) :-
     setrand(1234),
     gen_program(AST), !,
     tell(generated_ast), write(AST), write('.'), told,
+    empty_avl(AVL),
+    avl_store(a, AVL, int(1), AVL1),
+    avl_store(b, AVL1, int(1), AVL2),
+    avl_store(x, AVL2, int(1), AVL3),
+    avl_store(y, AVL3, int(1), AVL4),
+    avl_store(z, AVL4, int(1), Env).
+
+generated2(AST, Env) :-
+    setrand(9348442),
+    gen_program(AST), !,
+    empty_avl(AVL),
+    avl_store(a, AVL, int(1), AVL1),
+    avl_store(b, AVL1, int(1), AVL2),
+    avl_store(x, AVL2, int(1), AVL3),
+    avl_store(y, AVL3, int(1), AVL4),
+    avl_store(z, AVL4, int(1), Env).
+
+generated3(AST, Env) :-
+    setrand(6953158),
+    gen_program(AST), !,
     empty_avl(AVL),
     avl_store(a, AVL, int(1), AVL1),
     avl_store(b, AVL1, int(1), AVL2),

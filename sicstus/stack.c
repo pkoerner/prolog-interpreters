@@ -1,6 +1,13 @@
 #include <stdlib.h>
 #include <assert.h>
+#ifdef C_INTERPRETER
+#define SP_malloc malloc
+#define SP_calloc calloc
+#define SP_free free
+#define SP_realloc realloc
+#else
 #include <sicstus/sicstus.h>
+#endif
 
 #include "stack.h"
 
